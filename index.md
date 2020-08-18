@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello
-subtitle: My name is Pudhina
+title: 世界你好
+subtitle: 我叫脸儿
 sitemap:
   priority: 0.9
 ---
@@ -10,5 +10,5 @@ sitemap:
 
 <div id="describe-text">
 	<p>A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability</p>
-	<p>Fork and use the theme from the <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p>Fork and use the theme from the <strong> <a href="#"> repository</a> </strong></p>
 </div>
