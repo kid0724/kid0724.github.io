@@ -9,7 +9,7 @@ sitemap:
 <img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p> 如果你累了，</p>
-	    可以止步看夕阳 ，
-	    人生的路上我陪你流浪。
+
+	<p> 如果你累了，可以止步看夕阳 ，  人生的路上我陪你流浪。 </p>
+	    
 </div>
