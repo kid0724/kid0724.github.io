@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Sample"
-subtitle: "A longer explanation of stuff"
+title:  "现实"
+subtitle: "现实总有人给你上一课"
 date:   2016-05-20 21:21:21 +0530
 categories: ["general"]
 ---
