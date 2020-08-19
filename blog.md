@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-subtitle: Select ramblings of Pudhina
+title: 文章
+subtitle: 精选自小脸
 ---
 
 <div>
